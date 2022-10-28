@@ -25,7 +25,7 @@ def kontol():
 ┃┏╮┃┃┃┃┃┃╭┛┃┗┓
 ┃┃┃╰┛┃┃┃┃╰┓┃┗┓
 ┗┛╰━━┛┗┛╰━┛┗━┛
-        ︻デ═一 HACKER : AKASH BLACK HAT
+        ︻デ═一 HACKER : FAISAL BLACK HAT
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : FAISAL BLACK HAT
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/BLACHAT517/FAISAL-OK.git
@@ -47,7 +47,7 @@ def jembut():
 ▐░▌       ▐░▌▐░▌      ▐░▌       ▄ ▐░▌       ▐░▌▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌      ▐░▌      
 ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌▐░▌       ▐░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░▌  ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌     
  ▀         ▀  ▀         ▀       ▀  ▀         ▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀    ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀
-              ︻デ═一 HACKER : AKASH BLACK HAT
+              ︻デ═一 HACKER : FAISAL BLACK HAT
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : FAISAL BLACK HAT
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/BLACHAT517/FAISAL-OK.git

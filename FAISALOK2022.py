@@ -55,6 +55,9 @@ def jembut():
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 
+CorrectUsername = "FAISAL"
+CorrectPassword = "HAFSA"
+
 def yayanxd():
     yayan = input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if yayan == "":

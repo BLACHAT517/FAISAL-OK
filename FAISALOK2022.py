@@ -36,6 +36,8 @@ def kontol():
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] whatsapp : +92 3049636625
 \x1b[1;94m────────────────────────────────────────────────────""")
 
+CorrectUsername = "FAISAL"
+CorrectPassword = "HAFSA"
 
 def jembut():
     print("""\n\x1b
